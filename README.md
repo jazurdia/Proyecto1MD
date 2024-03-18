@@ -6,6 +6,9 @@ Integrantes:
 - Diego Alejandro Morales
 - Alejandro Azurdia
 
+Enlace al documento de análisis exploratorio
+https://docs.google.com/document/d/1sq8PwgNTJrkpP95S0vND_L8JuOE5QN4AGYDDkKrDszk/edit?usp=sharing
+
 ---
 
 ## Descripción del Proyecto
@@ -35,6 +38,3 @@ El proyecto se divide en varias secciones principales:
 Este análisis revela la complejidad de las tasas de suicidio y cómo estas pueden estar influenciadas por una variedad de factores socioeconómicos y demográficos. Los hallazgos pueden ser útiles para investigadores y formuladores de políticas interesados en desarrollar estrategias para reducir las tasas de suicidio. Para futuras investigaciones, sería interesante explorar más a fondo la relación entre la salud mental y las tasas de suicidio, así como realizar un análisis de series temporales para entender las tendencias a lo largo del tiempo.
 
 ---
-
-Enlace al documento de análisis exploratorio
-https://docs.google.com/document/d/1sq8PwgNTJrkpP95S0vND_L8JuOE5QN4AGYDDkKrDszk/edit?usp=sharing
